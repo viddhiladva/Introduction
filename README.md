@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript, and Related Freamwork.**
 
-- 💬 Ask me about **forntend-design of web application/**
+- 💬 Ask me about **forntend-design of web application**
 
 - 📫 How to reach me **vidhiladva@gmail.com**
 
